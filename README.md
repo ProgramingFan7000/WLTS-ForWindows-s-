@@ -1,5 +1,5 @@
 # WLTS-ForWindows-s-
- 📎 📎WORK IN PROGGRES!! 📎 📎
+⚙️ 📎 📎WORK IN PROGGRES!! 📎 📎⚙️
 
 🛠️This is a prodject im going to work on🛠️, i had HP BIOS as a refrance and this is for checking your laptop/pc/Phone(ifpossible) specs
 
@@ -16,16 +16,27 @@ will add some stuff for this prodject, also will be a sb3 for !TURBOWARP! Not Sc
 
 🔗links used🔗:
 https://packager.turbowarp.org/
+
 https://turbowarp.org/ (if using turbowarp for a prodject id recomend desktop version)
+
 https://h30434.www3.hp.com/t5/Gaming-Desktops/Omen-Setup-Utility-Vs-Bios/td-p/9114678 (for img)
+
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_webstorage_browsertest (for WLTS 0.2 thats a WIP rn)
+
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_draganddrop (for WLTS 0.2 ALSO)
-https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsCHROME0S_HTMLVERSION.json
-https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsLINUXVERSION.json
-https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsMACosVERSION.json
-https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsWINDOWSVERSION.json
-https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsZIP.json
-https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/WLTS(ForWindows%23s%2Cv0_2).sb3
+
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsCHROME0S_HTMLVERSION.json  </>
+
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsLINUXVERSION.json          </>
+
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsMACosVERSION.json          </>
+<img width="534" height="534" alt="u1fa84_u1f4be" src="https://github.com/user-attachments/assets/bef87555-3b5f-42b1-9044-99a7caf43cc9" />
+
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsWINDOWSVERSION.json        </>
+
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsZIP.json                   </>
+
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/WLTS(ForWindows%23s%2Cv0_2).sb3                       </>
 
 Working on compatibily for every OS. so if some features dont work they will hopfily get fixed, also if not on any window #s then you can run in turbowarp Desktop or via turbowarp: https://turbowarp.org/ 
 
