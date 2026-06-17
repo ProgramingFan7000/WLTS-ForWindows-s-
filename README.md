@@ -5,13 +5,14 @@
 
 heres my refrance img, also booted into my bios once and I'm also using that as refrance
 
-![Modern HP OMEN BIOS Setup Utility](https://hp.com) 
+<img width="235" height="153" alt="ss-bios-virtualization-technology-box" src="https://github.com/user-attachments/assets/c32b39cf-5427-4825-8887-1c33f171e41f" />
 
 (img is not mine obv)
 
 will add some stuff for this prodject, also will be a sb3 for !TURBOWARP! Not Scrach!, as scrach doesnt like the code used for the tubowapr prodject!, also recomended to use the packager via[turbowarp-packager-settings.json](https://github.com/user-attachments/files/29031514/turbowarp-packager-settings.json)
 
-🗂️exe packager settings are included🗂️, might change, but not a lot
+🗂️exe packager settings are included🗂️, might change, but not a lot.
+
 🆕🆕Latest Build🆕🆕: https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/WLTS(ForWindows%23s%2Cv0_2).sb3
 
 🔗links used🔗:
@@ -30,7 +31,6 @@ https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-pack
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsLINUXVERSION.json          </>
 
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsMACosVERSION.json          </>
-<img width="534" height="534" alt="u1fa84_u1f4be" src="https://github.com/user-attachments/assets/bef87555-3b5f-42b1-9044-99a7caf43cc9" />
 
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsWINDOWSVERSION.json        </>
 
@@ -45,4 +45,8 @@ Working on compatibily for every OS. so if some features dont work they will hop
 
 ADDED a work inprogess CLippy AI to awnwe quitons!! 
 vary bare bones still needs inprovement and need to anwer quiestions!
-<img src="assets/clippy.png" width="200">****
+<img width="159" height="180" alt="OIP" src="https://github.com/user-attachments/assets/69664a71-b57d-4f73-874b-94659cf04519" />
+
+
+And if you do use my Turbowaro prodject thank you!!!
+<img width="534" height="534" alt="u1fa84_u1f4be" src="https://github.com/user-attachments/assets/bef87555-3b5f-42b1-9044-99a7caf43cc9" />
