@@ -12,6 +12,7 @@ heres my refrance img, also booted into my bios once and I'm also using that as 
 will add some stuff for this prodject, also will be a sb3 for !TURBOWARP! Not Scrach!, as scrach doesnt like the code used for the tubowapr prodject!, also recomended to use the packager via[turbowarp-packager-settings.json](https://github.com/user-attachments/files/29031514/turbowarp-packager-settings.json)
 
 🗂️exe packager settings are included🗂️, might change, but not a lot
+🆕🆕Latest Build🆕🆕: https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/WLTS(ForWindows%23s%2Cv0_2).sb3
 
 🔗links used🔗:
 https://packager.turbowarp.org/
@@ -19,6 +20,12 @@ https://turbowarp.org/ (if using turbowarp for a prodject id recomend desktop ve
 https://h30434.www3.hp.com/t5/Gaming-Desktops/Omen-Setup-Utility-Vs-Bios/td-p/9114678 (for img)
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_webstorage_browsertest (for WLTS 0.2 thats a WIP rn)
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_draganddrop (for WLTS 0.2 ALSO)
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsCHROME0S_HTMLVERSION.json
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsLINUXVERSION.json
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsMACosVERSION.json
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsWINDOWSVERSION.json
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsZIP.json
+https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/WLTS(ForWindows%23s%2Cv0_2).sb3
 
 Working on compatibily for every OS. so if some features dont work they will hopfily get fixed, also if not on any window #s then you can run in turbowarp Desktop or via turbowarp: https://turbowarp.org/ 
 
