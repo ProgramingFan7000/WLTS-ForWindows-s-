@@ -17,3 +17,65 @@ will add some stuff for this prodject, also will be a sb3 for !TURBOWARP! Not Sc
 https://packager.turbowarp.org/
 https://turbowarp.org/ (if using turbowarp for a prodject id recomend desktop version)
 https://h30434.www3.hp.com/t5/Gaming-Desktops/Omen-Setup-Utility-Vs-Bios/td-p/9114678 (for img)
+
+Working on compatibily for every OS so if some features dont work they will hopfily get fixed!
+🟥🟥🟥🟥🟥  🟩🟩🟩🟩🟩
+🟥🟥🟥🟥🟥  🟩🟩🟩🟩🟩
+🟥🟥🟥🟥🟥  🟩🟩🟩🟩🟩
+🟥🟥🟥🟥🟥  🟩🟩🟩🟩🟩
+
+🟦🟦🟦🟦🟦  🟨🟨🟨🟨🟨
+🟦🟦🟦🟦🟦  🟨🟨🟨🟨🟨
+🟦🟦🟦🟦🟦  🟨🟨🟨🟨🟨
+🟦🟦🟦🟦🟦  🟨🟨🟨🟨🟨 
+
+
+
+🟦🟦🟦          🔴🔴🔴       🟡🟡🟡       🟦🟦🟦        🟩🟩           🔴🔴🔴
+🟦🟦  🟦🟦   🔴🔴  🔴🔴   🟡🟡  🟡🟡   🟦🟦  🟦🟦     🟩🟩        🔴🔴  🔴🔴
+🟦🟦         🔴🔴  🔴🔴   🟡🟡  🟡🟡   🟦🟦  🟦🟦     🟩🟩        🔴🔴🔴🔴🔴
+🟦🟦  🟦🟦   🔴🔴  🔴🔴   🟡🟡  🟡🟡   🟦🟦  🟦🟦     🟩🟩        🔴🔴
+  🟦🟦🟦🟦     🔴🔴🔴       🟡🟡🟡       🟦🟦🟦🟦     🟩🟩🟩🟩      🔴🔴🔴
+      🟦🟦                                   🟦🟦
+🟦🟦🟦🟦                               🟦🟦🟦🟦
+
+
+
+        🟩🟩🟩🟩
+      🟩🟩🟩
+      
+      ⬜⬜🍏🍏🍏🍏⬜⬜
+    ⬜🍏🍏🍏🍏🍏🍏🍏🍏⬜
+  🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏
+  🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏
+  🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏
+  🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏🍏
+    🍏🍏🍏🍏🍏🍏🍏🍏🍏
+      🍏🍏🍏    🍏🍏🍏
+
+
+           ⬛⬛⬛⬛⬛
+        ⬛⬛⬛⬛⬛⬛⬛
+        ⬛⬜)⬛⬜)⬛ ⬛
+        ⬛⬜⬜🟨⬜⬜⬛
+        ⬛⬛🟨🟨🟨⬛⬛
+      ⬛⬛⬜⬜⬜⬜⬜⬛⬛
+    ⬛⬛⬛⬜⬜⬜⬜⬜⬛⬛⬛
+  ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬛⬛⬛⬛   
+  ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+    ⬛⬛🟨🟨🟨    🟨🟨🟨⬛⬛
+    🟨🟨🟨🟨        🟨🟨🟨🟨
+
+
+            🔴🔴🔴
+         🔴🔴🔴🔴🔴
+            🔴🔴🔴
+      🧡🧡🧡      🟥🟥🟥
+    🧡🧡🧡          🟥🟥🟥
+   🧡🧡                🟥🟥
+  🧡🧡                  🟥🟥
+   🧡🧡                🟨🟨
+    🧡🧡🧡          🟨🟨🟨
+      🧡🧡🧡      🟨🟨🟨
+            🟡🟡🟡
+         🟡🟡🟡🟡🟡      
