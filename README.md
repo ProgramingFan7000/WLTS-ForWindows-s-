@@ -1,7 +1,5 @@
 # WLTS-ForWindows-s-
 ⚙️ 📎 📎WORK IN PROGGRES!! 📎 📎⚙️
-<img width="210" height="180" alt="OIP" src="https://github.com/user-attachments/assets/7d6519c9-5fe3-4d2a-8d38-8bebb1557444" />
-<img width="210" height="180" alt="OIP" src="https://github.com/user-attachments/assets/fe39201f-97ef-4ad7-a4cb-361a502be09e" />
 
 📎 📎⚙️Also For https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsZIP.json it might not work, as it has an out dated WLTS, But I dont think it would change much!📎 📎⚙️
 
@@ -31,13 +29,13 @@ https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_webstorage_browsertes
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_draganddrop (for WLTS 0.2 ALSO)
 
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsCHROME0S_HTMLVERSION.json  </>
-
+<img width="210" height="180" alt="OIP" src="https://github.com/user-attachments/assets/fe39201f-97ef-4ad7-a4cb-361a502be09e" />
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsLINUXVERSION.json          </>
-
+<img width="474" height="266" alt="OIP" src="https://github.com/user-attachments/assets/8b5c2973-b0fc-4994-8e9b-86fb812be58e" />
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsMACosVERSION.json          </>
-
+<img width="348" height="177" alt="download" src="https://github.com/user-attachments/assets/a8377da1-63e2-41d3-b9f7-c88d26ffbaff" />
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsWINDOWSVERSION.json        </>
-
+<img width="161" height="180" alt="OIP" src="https://github.com/user-attachments/assets/342f3fb1-8c6d-4bbb-abc4-8f86617cc549" />
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsZIP.json                   </>
 
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/WLTS(ForWindows%23s%2Cv0_2).sb3                       </>
