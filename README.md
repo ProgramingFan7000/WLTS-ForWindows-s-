@@ -15,7 +15,7 @@ will add some stuff for this prodject, also will be a sb3 for !TURBOWARP! Not Sc
 
 🗂️exe packager settings are included🗂️, might change, but not a lot.
 
-🆕🆕Latest Build🆕🆕: https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/WLTS(ForWindows%23s%2Cv0_2).sb3
+🆕🆕Latest Build🆕🆕: [https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/WLTS(ForWindows%23s%2Cv0_2).sb3](https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/WLTS(ForWindows%23s%2Cv0_3).sb3)
 
 🔗links used🔗:
 https://packager.turbowarp.org/
