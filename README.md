@@ -46,7 +46,7 @@ Working on compatibily for every OS. so if some features dont work they will hop
 
 
 ADDED a work inprogess CLippy AI to awnwe quitons!! 
-vary bare bones still needs inprovement and need to anwer quiestions!
+Working on more quesions, mostly Wsl, Qestions on how to install wsl.  How to get wsl,How to install wsl,how to install wsl,install wsl,wsl,u wsl,WSL,HOW TO INSTALL WSL,HOW TO GET WSL
 <img width="159" height="180" alt="OIP" src="https://github.com/user-attachments/assets/69664a71-b57d-4f73-874b-94659cf04519" />
 
 
