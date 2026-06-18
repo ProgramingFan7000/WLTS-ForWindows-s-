@@ -22,6 +22,14 @@ https://packager.turbowarp.org/
 
 https://turbowarp.org/ (if using turbowarp for a prodject id recomend desktop version)
 
+https://packager.turbowarp.org/ (for uploading the package settings and for file uploading)
+
+https://docs.turbowarp.org/packager (Docs)
+
+https://github.com/TurboWarp/packager/releases (installing packager, not needed if using website)
+
+https://www.bing.com/videos/riverview/relatedvideo?q=turbowarp+packager&mid=80F9A393A21573328B5C80F9A393A21573328B5C&churl=https://www.youtube.com/channel/UC5OBSLrxNNFzef4-Uj0ralA&FORM=VIRE (how to use packager, but if using settings for packager shoodednt neeed)
+
 https://h30434.www3.hp.com/t5/Gaming-Desktops/Omen-Setup-Utility-Vs-Bios/td-p/9114678 (for img)
 
 https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_webstorage_browsertest (for WLTS 0.2 thats a WIP rn)
@@ -31,7 +39,7 @@ https://www.w3schools.com/html/tryit.asp?filename=tryhtml5_draganddrop (for WLTS
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsCHROME0S_HTMLVERSION.json  </>
 <img width="210" height="180" alt="OIP" src="https://github.com/user-attachments/assets/fe39201f-97ef-4ad7-a4cb-361a502be09e" />
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsLINUXVERSION.json          </>
-<img width="474" height="266" alt="OIP" src="https://github.com/user-attachments/assets/8b5c2973-b0fc-4994-8e9b-86fb812be58e" />
+<img width="474" height="266" alt="OIP" src="https://github.com/user-attachments/assets/8b5c2973-b0fc-4994-8e9b-86fb812be58e" </>
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsMACosVERSION.json          </>
 <img width="348" height="177" alt="download" src="https://github.com/user-attachments/assets/a8377da1-63e2-41d3-b9f7-c88d26ffbaff" />
 https://github.com/ProgramingFan7000/WLTS-ForWindows-s-/blob/main/turbowarp-packager-settingsWINDOWSVERSION.json        </>
